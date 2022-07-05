@@ -1,0 +1,23 @@
+{
+  "name": "formulae-electronics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenttonino/formulae-electronics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenttonino/formulae-electronics/issues"
+  },
+  "homepage": "https://github.com/kenttonino/formulae-electronics#readme",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
