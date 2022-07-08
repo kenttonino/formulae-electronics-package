@@ -1,3 +1,3 @@
 export const consoleTest = (message) => {
-    console.log(message)
+  console.log(message)
 }
