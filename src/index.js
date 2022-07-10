@@ -1,3 +1,3 @@
-export const consoleTest = (message) => {
-  console.log(message)
-}
+#!/usr/bin/env node
+
+console.log('hello world')
