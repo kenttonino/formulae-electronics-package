@@ -1,1 +1,2 @@
-# formulae-electronics
+# Description
+- A JavaScript npm package that handles electronics computation.
