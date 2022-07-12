@@ -1,4 +1,4 @@
-name: formulae-electronics (develop)
+name: formulae-electronics-package (develop)
 
 on:
   push:
