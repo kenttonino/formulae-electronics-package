@@ -1,6 +1,6 @@
 {
-  "name": "formulae-electronics",
-  "version": "1.0.4",
+  "name": "formulae-electronics-package",
+  "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
   "type": "module",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenttonino/formulae-electronics.git"
+    "url": "git+https://github.com/kenttonino/formulae-electronics-package.git"
   },
   "keywords": [],
   "author": "Kent Louise Tonino",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kenttonino/formulae-electronics/issues"
+    "url": "https://github.com/kenttonino/formulae-electronics-package/issues"
   },
-  "homepage": "https://github.com/kenttonino/formulae-electronics#readme",
+  "homepage": "https://github.com/kenttonino/formulae-electronics-package#readme",
   "bin": "./src/index.js",
   "dependencies": {
     "prettier": "^2.7.1"
