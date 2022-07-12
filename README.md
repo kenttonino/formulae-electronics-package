@@ -3,4 +3,4 @@
 
 ### Technologies | Packages
 - Backend: JavaScript, NodeJS
-- DevOps: Git, Bash, Github, Github Actions
+- Others: Git, Bash, Github, Github Actions
